@@ -1,6 +1,0 @@
-Dear user,
-Your account has been suspended due to suspicious activity.
-Click here: http://fakebank.com/verify to restore access.
----
-Hello friend,
-This is just a reminder for our meeting tomorrow. No links here.
